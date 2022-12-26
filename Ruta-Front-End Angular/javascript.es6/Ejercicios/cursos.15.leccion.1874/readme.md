@@ -3,7 +3,11 @@ Curso de JavaScript Básico
 Ejercicio
 https://campus.open-bootcamp.com/cursos/15/leccion/1874
 
-Crea un nuevo proyecto de Node, y dentro del package.json crea un script que muestre por pantalla "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo".
+Crea un nuevo proyecto de Node,
+y dentro del package.json
+crea un script que muestre por pantalla
+"Hola, este es mi primer ejercicio con Node
+en el mejor Bootcamp de programación del mundo".
 
 Ejercicio
 
