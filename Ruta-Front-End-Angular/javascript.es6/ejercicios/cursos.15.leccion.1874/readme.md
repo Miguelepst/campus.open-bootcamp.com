@@ -16,3 +16,7 @@ Entregable
 Duración aproximada: 5min
 Estado:PENDIENTE ENTREGA
 Enunciado del ejercicio:
+
+
+Solucion: 
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/01-Introduccion

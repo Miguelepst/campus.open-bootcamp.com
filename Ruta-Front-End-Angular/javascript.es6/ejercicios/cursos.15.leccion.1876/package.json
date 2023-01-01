@@ -4,7 +4,9 @@
   "description": "Curso de JavaScript Básico",
   "main": "./src/js/index.js",
   "scripts": {
-    "start": "node src/js/index.js",
+    "factorial-for": "node src/js/factorial-for.js",
+    "factorial-while": "node src/js/factorial-while.js",
+    "factorial-break": "node src/js/factorial-break.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

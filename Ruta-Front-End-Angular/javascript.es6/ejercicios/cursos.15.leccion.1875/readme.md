@@ -26,5 +26,6 @@ Entregable
 Duración aproximada: 5min
 Estado:PENDIENTE ENTREGA
 
-
+Solucion:
+https://github.com/Open-Bootcamp/ResolucionEjercicios/blob/main/JavaScript/02-Sintaxis/sintaxis.js
 
