@@ -36,3 +36,7 @@ Entregable
 5min de duración aprox.
 Duración aproximada: 5min
 Estado:PENDIENTE ENTREGA
+
+
+respuesta OpenBootCamp:
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/04-Textos
