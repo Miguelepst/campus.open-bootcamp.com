@@ -29,3 +29,6 @@ Entregable
 5min de duración aprox.
 Duración aproximada: 5min
 Estado:PENDIENTE ENTREGA
+
+Solucion OpenBootCamp:
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/06-Listas
