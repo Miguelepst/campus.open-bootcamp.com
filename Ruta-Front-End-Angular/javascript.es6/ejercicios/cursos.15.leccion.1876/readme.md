@@ -1,7 +1,7 @@
 Curso de JavaScript Básico
 
 
-Ejercicio
+Ejercicio 3
 https://campus.open-bootcamp.com/cursos/15/leccion/1876
 
 

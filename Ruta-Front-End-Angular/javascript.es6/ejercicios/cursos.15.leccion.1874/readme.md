@@ -1,6 +1,6 @@
 Curso de JavaScript Básico
 
-Ejercicio
+Ejercicio 1
 https://campus.open-bootcamp.com/cursos/15/leccion/1874
 
 Crea un nuevo proyecto de Node,
