@@ -2,9 +2,10 @@
   "name": "cursos.15.leccion.1880",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "main": "./src/js/conjuntos.js",
+    "scripts": {
+      "start": "node ./src/js/conjuntos.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
