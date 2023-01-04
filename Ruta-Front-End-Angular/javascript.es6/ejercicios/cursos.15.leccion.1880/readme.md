@@ -16,3 +16,9 @@ Entregable
 5min de duración aprox.
 Duración aproximada: 5min
 Estado:PENDIENTE ENTREGA
+
+
+OpenBootCamp
+Solución del ejercicio:
+
+https://github.com/Open-Bootcamp/ResolucionEjercicios/blob/main/JavaScript/07-Sets/conjuntos.js
