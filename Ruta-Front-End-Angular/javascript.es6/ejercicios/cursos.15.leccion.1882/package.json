@@ -1,0 +1,13 @@
+{
+  "name": "cursos.15.leccion.1882",
+  "version": "1.0.0",
+  "description": "",
+"main": "./src/js/fechas.js",
+"scripts": {
+  "start": "node ./src/js/fechas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

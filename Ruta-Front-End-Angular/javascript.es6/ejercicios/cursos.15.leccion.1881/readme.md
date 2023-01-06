@@ -24,5 +24,7 @@ Estado:PENDIENTE ENTREGA
 
 
 OpenBootCamp
+
 Solución del ejercicio:
 
+https://github.com/Open-Bootcamp/ResolucionEjercicios/blob/main/JavaScript/07-Sets/objetos.js
