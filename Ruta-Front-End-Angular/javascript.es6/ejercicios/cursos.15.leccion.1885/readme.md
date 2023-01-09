@@ -30,6 +30,7 @@ OpenBootCamp
 
 Solución del ejercicio:
 
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/09-Errores
 
 
 

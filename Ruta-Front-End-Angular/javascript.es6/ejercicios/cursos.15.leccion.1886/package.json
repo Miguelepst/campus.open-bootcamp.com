@@ -1,0 +1,17 @@
+{
+  "name": "cursos.15.leccion.1886",
+  "version": "1.0.0",
+  "description": "cursos.15.leccion.1886",
+  "main": "./src/js/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
