@@ -35,6 +35,7 @@ OpenBootCamp
 
 Solución del ejercicio:
 
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/11-Programacion%20orientada%20a%20Objetos
 
 
 
