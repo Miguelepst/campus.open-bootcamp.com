@@ -1,0 +1,15 @@
+{
+  "name": "cursos.15.leccion.1890_16",
+  "version": "1.0.0",
+  "description": "cursos.15.leccion.1889_15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
+}
