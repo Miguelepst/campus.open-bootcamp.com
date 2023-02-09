@@ -1,0 +1,13 @@
+{
+    "parserOptions": { /* Required for certain syntax usages */  "ecmaVersion": 2020},        
+    "rules": {
+       "eqeqeq": "warn",
+       "strict": "off",
+       //"quotes": ["error", "double"],
+       "quotes": ["off", "double"],
+       //"semi" : ["error", "never"],
+       //"no-dupe-keys" : "error", 
+       "semi" : ["off", "never"]
+       
+    }
+}

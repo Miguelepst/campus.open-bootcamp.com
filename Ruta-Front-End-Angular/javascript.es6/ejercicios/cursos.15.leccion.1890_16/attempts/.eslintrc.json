@@ -1,0 +1,21 @@
+
+
+{
+
+
+
+    //"extends": "airbnb",
+    "rules": {
+  "parser": "@babel/eslint-parser",   
+//  "parserOptions": { /* Required for certain syntax usages */  "ecmaVersion": 2020},
+//      "eqeqeq": "off",
+       "eqeqeq" : ["error", "always"],
+       "curly": "error",
+       "quotes": ["error", "single"]
+  //"quotes": [2, "single", { "avoidEscape": true }]
+ 
+
+
+         
+    }
+}

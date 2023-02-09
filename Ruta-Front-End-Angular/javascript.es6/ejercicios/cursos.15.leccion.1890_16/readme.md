@@ -1,6 +1,6 @@
-cursos.15.leccion.1889_15
+cursos.15.leccion.1890_16
 
-cursos.15.leccion.1889
+cursos.15.leccion.1890
 
 https://campus.open-bootcamp.com/cursos/15/leccion/1890
 
@@ -16,6 +16,7 @@ Crea un nuevo proyecto de Node
 - Utiliza los tres estilos de comillas de forma alterna (comillas simples, dobles, backticks)
 
 - Crea el fichero .eslintrc.json
+
 
 - Cambia la configuración de ESLint para que la versión ecmaVersion sea "latest"
 

@@ -1,0 +1,58 @@
+console.log("Hola 16")
+
+// Sesión 4 - Strings (cadenas de caracteres)
+let str_sng = "Hola soy un texto con comillas simples"
+let str_dbl = "Hola soy un texto con comillas dobles"
+
+console.log(str_sng)
+console.log(str_dbl)
+
+let str_comillas = "El otro día me dijo literalmente \"ve a sacar la basura\""
+let str_comillas_simples = "El otro día me dijo literalmente \"ve a sacar la basura\""
+let str_comillas_dobles = "El otro día me dijo literalmente 've a sacar la basura'"
+let str_comillas_simples_2 = "El otro día me dijo literalmente 've a sacar la basura'"
+
+console.log(str_comillas)
+console.log(str_comillas_simples)
+console.log(str_comillas_dobles)
+
+////// Comillas invertidas (backticks)
+let str_backticks = "Hola esto es un string con backticks"
+
+console.log(str_backticks)
+
+const alma = "qwer"
+
+let a = 1
+let b = "34"
+
+if (a != b) {
+    console.log(a)
+}
+
+
+const nombre1 = "Miguel 1"
+
+
+/* eslint-disable */
+const nombre2 = 'Miguel 2';
+
+/* eslint-enable */
+
+const nombre3 = "Miguel 3"  //error de eslint, aplica nuevamente las reglas eslint.
+
+//desabilita solo una linea: //eslint-disable-line  
+const nombre4 = 'Miguel 4'; //eslint-disable-line
+
+//desabilitar comillas dobles
+const nombre5 = 'Miguel 5'; //eslint-disable-line quotes, semi
+
+
+/* eslint-disable-next-line indent, semi, quotes */
+    const nombre6 = 'Miguel 6';
+
+console.log("hola")
+
+
+
+

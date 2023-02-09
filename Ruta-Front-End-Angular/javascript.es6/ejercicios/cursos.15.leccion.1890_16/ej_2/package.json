@@ -1,15 +1,18 @@
 {
-  "name": "cursos.15.leccion.1890_16",
+  "name": "ej_2",
   "version": "1.0.0",
-  "description": "cursos.15.leccion.1889_15",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.32.0"
+    "eslint": "^8.33.0"
   }
 }
