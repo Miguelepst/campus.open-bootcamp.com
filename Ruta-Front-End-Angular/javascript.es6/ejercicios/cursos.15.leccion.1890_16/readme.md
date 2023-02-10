@@ -41,6 +41,7 @@ OpenBootCamp
 
 Solución del ejercicio:
 
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/13-Linting%20en%20JS
 
 
 

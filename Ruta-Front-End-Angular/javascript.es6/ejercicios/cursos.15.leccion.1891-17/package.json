@@ -1,0 +1,13 @@
+{
+  "name": "cursos.15.leccion.1891-17",
+  "version": "1.0.0",
+  "description": "cursos.15.leccion.1891-1",
+  "main": "index.js",
+  "scripts": {
+    "http-s": "http-server ./public -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
