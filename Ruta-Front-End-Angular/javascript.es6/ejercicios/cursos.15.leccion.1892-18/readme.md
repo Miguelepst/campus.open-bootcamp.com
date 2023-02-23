@@ -47,12 +47,12 @@ Duración aproximada: 5min
 Estado:PENDIENTE ENTREGA
 
 Miguel Gutierrez solucion:
-
+https://github.com/Miguelepst/campus.open-bootcamp.com/tree/main/Ruta-Front-End-Angular/javascript.es6/ejercicios/cursos.15.leccion.1892-18
 
 
 OpenBootCamp solucion:
 
-
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/15-Almacenamiento%20en%20navegador
 
 
 
