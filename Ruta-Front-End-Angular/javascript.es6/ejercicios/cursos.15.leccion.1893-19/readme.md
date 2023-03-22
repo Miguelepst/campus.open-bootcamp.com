@@ -23,11 +23,11 @@ Duración aproximada: 5min
 Estado:PENDIENTE ENTREGA
 
 Miguel Gutierrez solucion:
-
+https://github.com/Miguelepst/campus.open-bootcamp.com/tree/main/Ruta-Front-End-Angular/javascript.es6/ejercicios/cursos.15.leccion.1893-19
 
 
 OpenBootCamp solucion:
-
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/JavaScript/16-DragNDrop
 
 
 
